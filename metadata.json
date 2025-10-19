@@ -1,0 +1,5 @@
+{
+  "name": "AI Factory Inventory",
+  "description": "An intelligent web application that uses Gemini to analyze images of factory equipment and automatically generate structured inventory data. Upload an image, and let the AI identify the item, model, serial number, and more.",
+  "requestFramePermissions": []
+}
